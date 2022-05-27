@@ -1,0 +1,6 @@
+Git,
+Jira, 
+Json,
+SQL, 
+HTML, 
+Test case.
